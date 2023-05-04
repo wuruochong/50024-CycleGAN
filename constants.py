@@ -1,0 +1,10 @@
+# CycleGAN constants
+# Author: Ruochong Wu
+
+IMG_WIDTH = 256
+IMG_HEIGHT = 256
+BUFFER_SIZE = 1000
+BATCH_SIZE = 1
+OUTPUT_CHANNELS = 3
+LAMBDA = 10
+EPOCHS = 200
